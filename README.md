@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hridoy Varaby - (MD.Sazzid Bin Islam)</h1>
-<h3>A passionate frontend developer from Bangladesh with vast knowledge of backend also. Founder & CEO @ Varabit Web Design & Development.</h3>
+<h3>A passionate frontend developer from Bangladesh with vast knowledge of the backend. <br> Also Founder & CEO @ Varabit Web Design & Development.</h3>
 
 - 🔭 I’m currently working on [FreelanceAssist - A Project Manager for Solo Freelancer.](https://freelanceassists.netlify.app/)
 
