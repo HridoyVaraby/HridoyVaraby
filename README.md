@@ -39,17 +39,16 @@ I build production-ready web, mobile, Laravel, WordPress, Linux, and AI automati
 - Maintaining open-source tools across web, desktop, automation, and productivity workflows
 - Exploring better ways to combine **AI, DevOps, and product engineering** for real business use cases
 
-### GitHub Highlights
+### GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HridoyVaraby&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="Hridoy Varaby GitHub stats" />
+</p>
 
 <p align="left">
   <a href="https://github.com/HridoyVaraby?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/HridoyVaraby?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" /></a>
   <a href="https://github.com/HridoyVaraby?tab=repositories" target="_blank"><img src="https://img.shields.io/github/stars/HridoyVaraby?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" /></a>
-  <img src="https://komarev.com/ghpvc/?username=HridoyVaraby&style=for-the-badge&color=0A66C2" alt="Profile views" />
 </p>
-
-- Active across full-stack web, Laravel, WordPress, AI automation, Linux utilities, and mobile products
-- Maintains public projects, reusable tools, and client-ready systems under the **HridoyVaraby** and **Varabit** ecosystem
-- Focused on practical products: project management tools, admin UI kits, WordPress plugins, desktop utilities, and business websites
 
 ### Connect
 
