@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Hridoy Varaby</h1>
 <h3 align="center">Sazzid Bin Islam | Founder & CEO @ Varabit | Full-Stack Architect | AI Automation Builder</h3>
 
-I build production-ready web, mobile, WordPress, Linux, and AI automation products. My work spans client delivery through [Varabit](https://varabit.com), open-source utilities, AI-powered developer tools, WordPress plugins, and mobile apps on Google Play.
+I build production-ready web, mobile, Laravel, WordPress, Linux, and AI automation products. My work spans client delivery through [Varabit](https://varabit.com), open-source utilities, AI-powered developer tools, WordPress plugins, and mobile apps on Google Play.
 
 ### What I Work On
 
-- Building modern web apps with **Next.js, React, TypeScript, Tailwind CSS, Node.js, and Express**
+- Building modern web apps with **Next.js, React, TypeScript, Tailwind CSS, Laravel, Node.js, and Express**
+- Recently delivered **5 large Laravel projects**, including company websites for real estate, bookkeeping, and service-based businesses
 - Shipping AI-powered products using **Groq, OpenAI, local LLM workflows, and automation-first tooling**
 - Developing WordPress products, including the [AI Blogger plugin](https://wordpress.org/plugins/ai-blogger/)
 - Managing self-hosted infrastructure with **Docker, Dokploy, Coolify, Nginx, CyberPanel, and VPS hardening**
@@ -25,7 +26,7 @@ I build production-ready web, mobile, WordPress, Linux, and AI automation produc
 ### Tech Stack
 
 **Frontend:** Next.js, React, TypeScript, Vite, Tailwind CSS, Material UI, shadcn/ui  
-**Backend:** Node.js, Express.js, PHP, Python, REST APIs  
+**Backend:** Laravel, Node.js, Express.js, PHP, Python, REST APIs  
 **Mobile & Desktop:** React Native, Expo, Python, GTK3, Linux utilities  
 **Databases:** PostgreSQL, MongoDB, MySQL  
 **DevOps:** Docker, Dokploy, Coolify, Nginx, CyberPanel, CI/CD, VPS management  
@@ -34,9 +35,20 @@ I build production-ready web, mobile, WordPress, Linux, and AI automation produc
 ### Currently
 
 - Leading **Varabit Web Design & Development**
-- Building AI-driven web products, WordPress tools, and reusable developer systems
+- Building Laravel company websites, AI-driven web products, WordPress tools, and reusable developer systems
 - Maintaining open-source tools across web, desktop, automation, and productivity workflows
 - Exploring better ways to combine **AI, DevOps, and product engineering** for real business use cases
+
+### GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HridoyVaraby&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Hridoy Varaby GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HridoyVaraby&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=HridoyVaraby&theme=transparent&hide_border=true" alt="GitHub streak stats" />
+</p>
 
 ### Connect
 
@@ -48,4 +60,4 @@ I build production-ready web, mobile, WordPress, Linux, and AI automation produc
   <a href="https://www.youtube.com/c/hridoyvaraby" target="_blank"><img src="https://img.shields.io/badge/YouTube-hridoyvaraby-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" /></a>
 </p>
 
-**Email:** [info@varabit.com](mailto:info@varabit.com)
+**Email:** [info@varabit.com](mailto:info@varabit.com) | [varabitofficial@gmail.com](mailto:varabitofficial@gmail.com)
