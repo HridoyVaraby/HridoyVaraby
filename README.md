@@ -42,12 +42,12 @@ I build production-ready web, mobile, Laravel, WordPress, Linux, and AI automati
 ### GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HridoyVaraby&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="Hridoy Varaby GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HridoyVaraby&theme=transparent" alt="Hridoy Varaby GitHub profile summary" />
 </p>
 
 <p align="left">
-  <a href="https://github.com/HridoyVaraby?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/HridoyVaraby?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" /></a>
-  <a href="https://github.com/HridoyVaraby?tab=repositories" target="_blank"><img src="https://img.shields.io/github/stars/HridoyVaraby?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" /></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HridoyVaraby&theme=transparent" alt="Hridoy Varaby GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HridoyVaraby&theme=transparent&utcOffset=6" alt="Hridoy Varaby productive time" />
 </p>
 
 ### Connect
